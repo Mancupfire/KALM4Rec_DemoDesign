@@ -67,6 +67,24 @@
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-18" value="Profile Of User&#39;s Review For Restaurant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="640" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kIbHHDYd_MMXgtKDtzQd-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kIbHHDYd_MMXgtKDtzQd-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kIbHHDYd_MMXgtKDtzQd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIbHHDYd_MMXgtKDtzQd-20" target="kIbHHDYd_MMXgtKDtzQd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kIbHHDYd_MMXgtKDtzQd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="524" y="260" as="sourcePoint" />
+            <mxPoint x="330" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="494" y="260" />
+              <mxPoint x="494" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-20" value="Search Input" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -82,41 +100,11 @@
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-24" value="Product Detail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="349" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kIbHHDYd_MMXgtKDtzQd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="kIbHHDYd_MMXgtKDtzQd-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="140" as="sourcePoint" />
-            <mxPoint x="515" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="495" y="140" />
-              <mxPoint x="495" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kIbHHDYd_MMXgtKDtzQd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="314" y="140" as="sourcePoint" />
-            <mxPoint x="470" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="494" y="140" />
-              <mxPoint x="494" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIbHHDYd_MMXgtKDtzQd-26" target="kIbHHDYd_MMXgtKDtzQd-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-26" value="Fast API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kIbHHDYd_MMXgtKDtzQd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="kIbHHDYd_MMXgtKDtzQd-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="324" y="140" as="sourcePoint" />
-            <mxPoint x="472.03999999999996" y="340.02" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="494" y="140" />
-              <mxPoint x="494" y="333" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-30" value="Similarity Search" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="130" width="90" height="60" as="geometry" />
