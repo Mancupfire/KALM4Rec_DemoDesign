@@ -106,7 +106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-26" value="Fast API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="kIbHHDYd_MMXgtKDtzQd-23">
           <mxGeometry relative="1" as="geometry">
@@ -119,13 +119,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-30" value="Similarity Search" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="110" width="90" height="60" as="geometry" />
+          <mxGeometry x="20" y="130" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIbHHDYd_MMXgtKDtzQd-33" target="kIbHHDYd_MMXgtKDtzQd-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kIbHHDYd_MMXgtKDtzQd-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-83" y="130" as="sourcePoint" />
+            <mxPoint x="640" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-83" y="110" />
+              <mxPoint x="673" y="110" />
+              <mxPoint x="673" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-33" value="Product Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="-146" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kIbHHDYd_MMXgtKDtzQd-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kIbHHDYd_MMXgtKDtzQd-35" target="kIbHHDYd_MMXgtKDtzQd-26">
           <mxGeometry relative="1" as="geometry" />
